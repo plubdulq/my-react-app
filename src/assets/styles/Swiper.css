@@ -1,0 +1,13 @@
+.big-slider-container{
+    background-color: bisque;
+    height: auto;
+}
+
+.bigbanner{
+    background-image: url('https://www.up-manga.com/wp-content/uploads/2023/10/Necromancer-Academy-and-the-Genius-Summoner-1.jpg');
+    background-size: cover;
+    background-position: 50% 35%;
+    background-repeat: no-repeat;
+    min-height: 280px;
+    width: 100%;
+}

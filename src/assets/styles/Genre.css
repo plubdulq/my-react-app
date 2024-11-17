@@ -1,0 +1,24 @@
+.genre-container .genres{
+    position: relative;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    list-style-type: None;
+    background-color: #f90;
+    padding: 1rem;
+    font-weight: 500;
+    max-width: 1080px;
+    margin: auto;
+    border-radius: 6px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, .1);
+}
+
+.genre-container .genres li{
+    display: flex;
+}
+
+.genre-container .genres a{
+    text-decoration: None;
+    color: #000;
+}
